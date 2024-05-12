@@ -1,16 +1,15 @@
+
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-fernanda01&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=julia-fernanda01&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
+
 ### Hi there 👋
 
-<!--
-**julia-fernanda01/julia-fernanda01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Serviço Social na Unesp , faço parte do grupo de pesquisa da faculdade chamado Organição de Políticas Públicas (OPPs). Sou técnica em Eletrônica, pelo CEFET-MG Campus Araxá, no curso tive contato com a linguagem  de programação C ,  como estágiaria em tutoria de robótica para crianças e adolescentes, também trabalhei com a linguagem de programação  R-Educ , que esta em desenvolvimento pela equipe do aplicativo sBotics.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
