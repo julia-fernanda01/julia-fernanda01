@@ -12,5 +12,5 @@
 
 ### Hi there 👋
 
-Sou estudante de Serviço Social na Unesp , faço parte do grupo de pesquisa da faculdade chamado Organição de Políticas Públicas (OPPs). Sou técnica em Eletrônica, pelo CEFET-MG Campus Araxá, no curso tive contato com a linguagem  de programação C ,  como estágiaria em tutoria de robótica para crianças e adolescentes, também trabalhei com a linguagem de programação  R-Educ , que esta em desenvolvimento pela equipe do aplicativo sBotics.
+Sou estudante de Serviço Social na Unesp , faço parte do grupo de pesquisa da faculdade chamado Organição de Políticas Públicas (OPPs). Sou técnica em Eletrônica, pelo CEFET-MG Campus Araxá, no curso tive contato com a linguagem  de programação C ,  como estágiaria em tutoria de robótica para crianças e adolescentes e, também trabalhei com a linguagem de programação  R-Educ , que esta em desenvolvimento pela equipe do aplicativo sBotics.
 
